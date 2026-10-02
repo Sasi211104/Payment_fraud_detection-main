@@ -1,0 +1,22 @@
+flask==2.3.3
+gunicorn==21.2.0
+joblib
+scikit-learn==1.5.2
+xgboost
+pandas
+numpy
+
+
+
+#for trainig:
+
+# pandas
+# scikit-learn
+# xgboost
+# shap
+# imblearn
+# joblib
+
+
+# run pip install -r requirements.txt
+
